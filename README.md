@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Data Analytics Pipeline (End-to-End)
+# E-Commerce Data Analytics Pipeline (End-to-End)
 
 ## Sobre o Projeto
 Este repositório documenta a construção de uma pipeline de dados completa, criada para simular os desafios reais de um ambiente de negócio. Mais do que ligar tabelas num dashboard, o meu foco foi garantir a **qualidade, integração e integridade da informação** desde a extração até à visualização final. 
@@ -26,9 +26,6 @@ Durante o desenvolvimento, deparei-me com problemas típicos de dados reais e im
 
 ## Aprendizagens Pessoais
 Além da componente analítica, este projeto permitiu-me consolidar boas práticas de engenharia de software aplicadas a dados, incluindo a integração de fontes externas (APIs), controlo de versões com Git e gestão do ambiente de desenvolvimento.
-
-## Dashboard Interativo
-![Demonstração do Dashboard](link_para_uma_imagem_ou_gif_do_dashboard_aqui)
-
 ---
 *Para explorar a lógica de extração e consumo da API, consulte a pasta `/scripts`. Para as validações na base de dados, veja a pasta `/sql`.*
+*Para explorar o modelo de dados no PBI, consulte a pasta `dashboard`.
